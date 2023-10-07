@@ -1,0 +1,82 @@
+[
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "genre": "Fiction",
+    "publicationDate": "July 11, 1960",
+    "comments": [],
+    "photo": "https://i.ibb.co/JvSn7Mf/book20.jpg"
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "genre": "Dystopian",
+    "publicationDate": "June 8, 1949",
+    "comments": [],
+    "photo": "https://i.ibb.co/Qnd2Yzy/book19.jpg"
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "genre": "Romance",
+    "publicationDate": "January 28, 1813",
+    "comments": [],
+    "photo": "https://i.ibb.co/JrbPH2Y/book18.jpg"
+  },
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "genre": "Fiction",
+    "publicationDate": "April 10, 1925",
+    "comments": [],
+    "photo": "https://i.ibb.co/X2DVK1t/book17.jpg"
+  },
+  {
+    "title": "To the Lighthouse",
+    "author": "Virginia Woolf",
+    "genre": "Modernist",
+    "publicationDate": "May 5, 1927",
+    "comments": [],
+    "photo": "https://i.ibb.co/v3NkBy1/book16.jpg"
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "genre": "Coming-of-age",
+    "publicationDate": "July 16, 1951",
+    "comments": [],
+    "photo": "https://i.ibb.co/bQmZtKS/book15.jpg"
+  },
+  {
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "genre": "Dystopian",
+    "publicationDate": "October 27, 1931",
+    "comments": [],
+    "photo": "https://i.ibb.co/p1KR5vD/book14.jpg"
+  },
+  {
+    "title": "Moby-Dick",
+    "author": "Herman Melville",
+    "genre": "Adventure",
+    "publicationDate": "October 18, 1851",
+    "comments": [],
+    "photo": "https://i.ibb.co/D1SGw9J/book13.jpg"
+  },
+  {
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy",
+    "publicationDate": "September 21, 1937",
+    "comments": [],
+    "photo": "https://i.ibb.co/XCVTyhp/book12.jpg"
+  },
+  {
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy",
+    "publicationDate": "July 29, 1954",
+    "comments": [],
+    "photo": "https://i.ibb.co/68Rtn27/book11.jpg"
+  }
+]
